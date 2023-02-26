@@ -529,6 +529,968 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/c090d31cafed0c8ef7bb4d5af75a7dbf7149bcc03a7d5d63ae997d59100e362e_Flat Bar White Border.png",
           "name": "Flat Bar White Border.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/264237720be995348326489e405a6444bb94d974ef771d860df0f26136a64a3f_Cat_Dead_1.png",
+          "name": "Cat_Dead_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/be01aa5e7f957c952f0b525dda3b56a6f89b7e5b88f747819c2e810d44091532_Cat_Dead_10.png",
+          "name": "Cat_Dead_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/182924e446a575e1e5f022b7b7fbd6918616fe4395504188e87312fb0fcf2013_Cat_Dead_2.png",
+          "name": "Cat_Dead_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/6d8ea089a5d49920b7c93164e7084d0d4bb09e49bc3160c598efbc53bfe4e04b_Cat_Dead_3.png",
+          "name": "Cat_Dead_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/0d54ad28aace3c1a5ac3524bcc3fac26d872f91a6734b48334bfb76062c6899b_Cat_Dead_4.png",
+          "name": "Cat_Dead_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/b7d8010da104d517bd5b3178ce3e87885aab04661cc5aba5a7149cb4dffede99_Cat_Dead_5.png",
+          "name": "Cat_Dead_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/a3e3fc7111cf48238e5297182ac46aa5756215d857d0b69a1c72c0e4e1c090f5_Cat_Dead_6.png",
+          "name": "Cat_Dead_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/5bf93744e95391a2533b683a86b0d36c636fa334d7b672b73395d42992367549_Cat_Dead_7.png",
+          "name": "Cat_Dead_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/a8f7a6192a95c3436674151411b5d3329297338c5c2dd84496e17b9fdf0fcd39_Cat_Dead_8.png",
+          "name": "Cat_Dead_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Dead_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Dead_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/be01aa5e7f957c952f0b525dda3b56a6f89b7e5b88f747819c2e810d44091532_Cat_Dead_9.png",
+          "name": "Cat_Dead_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Fall_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Fall_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/4cfb7c4bb07768830a9c942aefe72a3a784ff5eb7d3f7d84502c84d4c880f114_Cat_Fall_1.png",
+          "name": "Cat_Fall_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Fall_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Fall_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/35f9657cd5f618a4886dd00d058576aa59b1608d7b8417824413da4a5c64ef38_Cat_Fall_2.png",
+          "name": "Cat_Fall_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Fall_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Fall_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/df28a6b206195eacf571be28e5736b40777a66676fdcb49d015a0fd8559d36cb_Cat_Fall_3.png",
+          "name": "Cat_Fall_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Fall_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Fall_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/43b1d93756dfe6b027b894ceab7c53ef8d58f0fbf6dd3122b9123b4c6199d20a_Cat_Fall_4.png",
+          "name": "Cat_Fall_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Fall_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Fall_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/15c3bbb61cf25018ec925d19ef2f2e00d48579ec7476b1fb4c07276676b88172_Cat_Fall_5.png",
+          "name": "Cat_Fall_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Fall_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Fall_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/ebd8d07780aa2776ee7b0d5a52f724808251f26db1d6737d19f23200336c7da6_Cat_Fall_6.png",
+          "name": "Cat_Fall_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Fall_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Fall_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/a378aa9c1db507f5d40534032de0baadbf574bb66164721296ba7cd4ee7efc06_Cat_Fall_7.png",
+          "name": "Cat_Fall_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Fall_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Fall_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/edb57054ae676e12b2c0330d1beffc189657b1f2393fe933a2d14bd7c53a7fe8_Cat_Fall_8.png",
+          "name": "Cat_Fall_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/64c66083e82a66340acc30bbf7b10feed0afd9c618dec0ccfc9018135e695c43_Cat_Hurt_1.png",
+          "name": "Cat_Hurt_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/72b5f993a8e433d3faf2a113d866c4dde7f7fa17b96bdd7909662d352f81fae2_Cat_Hurt_10.png",
+          "name": "Cat_Hurt_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/033320df237be37d42a1bbf9ec44266902bc7592734ba4c3fad42624562ea768_Cat_Hurt_2.png",
+          "name": "Cat_Hurt_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/889f7f545b43674367189f3a2eec9f7c1064018c6a344dd32b0f1042115776cd_Cat_Hurt_3.png",
+          "name": "Cat_Hurt_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/f6eb48adaa1a62689f437c3d1989b0718f8fcb98c53ad5c6165b3cfb47bd073d_Cat_Hurt_4.png",
+          "name": "Cat_Hurt_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/0acb13116cca342e9b51b41c71ccf7069479b614e2f3d941cc65275ea00ae7ff_Cat_Hurt_5.png",
+          "name": "Cat_Hurt_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/1e612a71a245b9a6c3184016b83b9c7ff61257519383d23f7040166507dbb204_Cat_Hurt_6.png",
+          "name": "Cat_Hurt_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/9fb81fbbe93265c10a3ad8e112ac68362f6f9ecfb9ac10e82b3b0bb1128084e2_Cat_Hurt_7.png",
+          "name": "Cat_Hurt_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/b201d18d0d4dbd96463fe7e9cb30bfdbfd5585781ba3d7e038ca52682272d2fe_Cat_Hurt_8.png",
+          "name": "Cat_Hurt_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Hurt_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Hurt_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/e015bbc170a36abe89ac37403adbc00951e698cafcd60fd7f71db3576cce5a82_Cat_Hurt_9.png",
+          "name": "Cat_Hurt_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/0bdb3adaed8603634d1d4c7ab4bc6c09258ca53d64f8c83f4c2a6a2f2feca764_Cat_Idle_1.png",
+          "name": "Cat_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/fdb479bb982a689e7e2fe7260a72cb2ab7a7d4c893f42bc31b438b44b3763ca4_Cat_Idle_10.png",
+          "name": "Cat_Idle_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/7dd458b107f515034255d8f7296c33c8d06bf8ca5f2d7240a7391587db1a5fc4_Cat_Idle_2.png",
+          "name": "Cat_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/2c4b80ddc470eaa20c1b06cbf1d23b4b067baef4062d36115cf4989ae490f26d_Cat_Idle_3.png",
+          "name": "Cat_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/07238ad113adc8c1a6e4f083df1fffee39807026cb55abeea66b83d6f1707c58_Cat_Idle_4.png",
+          "name": "Cat_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/609dd64ee6522978e4e36f0d3f32311f7db0e1c925a59b191082ac3d646ac913_Cat_Idle_5.png",
+          "name": "Cat_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/1fd238aa2a4955fabd531af43942d22e2bc4d0abb8d3dabe83a8554084467dad_Cat_Idle_6.png",
+          "name": "Cat_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/59f525f5fde0971654ceadbb072f1d100e74525c8c6c01f137452a912536ad38_Cat_Idle_7.png",
+          "name": "Cat_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/f4983fc28d573221fa944a5acb6eebdf9dc810f4da1d5c07b7c0a498d78cfaa0_Cat_Idle_8.png",
+          "name": "Cat_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/447a036d30ad2cf81613b28d1214ba944358cc704c2f7e517f89e7ec27fb0f08_Cat_Idle_9.png",
+          "name": "Cat_Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/ac5ffa8242fc12b5d0cafd394ded5964be80dfd181efca6d392434596d319ac2_Cat_Jump_1.png",
+          "name": "Cat_Jump_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/741382782672ccf6ef2e9d29dd1beb30c67d77147f8a217eaf762cf69745475e_Cat_Jump_2.png",
+          "name": "Cat_Jump_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/88a8b08374f0e661187a8c5da6f0286e12df0c844c0ce6f69ddd9f883656428d_Cat_Jump_3.png",
+          "name": "Cat_Jump_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Jump_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Jump_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/cac977f60f80a7823aba69a31961090f18b289a34eae3a406de2233505c0b377_Cat_Jump_4.png",
+          "name": "Cat_Jump_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Jump_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Jump_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/4cfb7c4bb07768830a9c942aefe72a3a784ff5eb7d3f7d84502c84d4c880f114_Cat_Jump_5.png",
+          "name": "Cat_Jump_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Jump_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Jump_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/a8b191eb98385be6caf9cad312c07b2b1e5da80a766f0661b8ce1a1b658da0e0_Cat_Jump_6.png",
+          "name": "Cat_Jump_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Jump_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Jump_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/17d504b6ef45f0545e33a7b1ac469fb75690a7efd812e989cb92f4c85545fde0_Cat_Jump_7.png",
+          "name": "Cat_Jump_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Jump_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Jump_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/c383b94766677ea244ee52b0339bc64ad9d95e994f8d6942c004f1699cb43365_Cat_Jump_8.png",
+          "name": "Cat_Jump_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/90848b29e79a042003842f50b19dfd131e2ab26e654de0374c190cdc806f3737_Cat_Run_1.png",
+          "name": "Cat_Run_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/9870cd53d4cdb623e0d7e2d4c666d1e531bae82690c5a44d41331a918f9dcc24_Cat_Run_2.png",
+          "name": "Cat_Run_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/af2d0704ae16598e4742cd80b0be08f04e2fe77086b663192dbd96a5fde02991_Cat_Run_3.png",
+          "name": "Cat_Run_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3dca6007bf6771134383b43724639f5cef0932e89fe39143b0313693249e2965_Cat_Run_4.png",
+          "name": "Cat_Run_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/a3781115be3845a52bfe582c34f69424226a2b7d0747b60b80be582076dd961d_Cat_Run_5.png",
+          "name": "Cat_Run_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3179f7eeb8f46ad7b3a35111091dab2570f7115bcc41b0cb6bcb302fa1e62f75_Cat_Run_6.png",
+          "name": "Cat_Run_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Run_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Run_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/07c50831504c352036b46ccb8ba2658fcff84dc18ef8be7887de011f295c5e00_Cat_Run_7.png",
+          "name": "Cat_Run_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Run_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Run_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/6ddd8e603937c7225f4f1216b90734fcfdcf904c89475dbe6f8d70a935dab7d3_Cat_Run_8.png",
+          "name": "Cat_Run_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/f953725df6c034a0a35f88cf7b6e5f52bf7416c847909b9fed3b2a6a4b63b557_Cat_Slide_1.png",
+          "name": "Cat_Slide_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/c119bfbeadc22d006b5170387de8f6b1072265e3f6fcd2f6a3abefcc6214973b_Cat_Slide_10.png",
+          "name": "Cat_Slide_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/f81d6f8e76abda30975fe15a381fb7dd09b1a0cbf0f95c5aae1e73b3ab8cee49_Cat_Slide_2.png",
+          "name": "Cat_Slide_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/caf56ca5d60a4602c5675d0a5fa74b1e52bd0f74366fa2b8717b064c79d85a9f_Cat_Slide_3.png",
+          "name": "Cat_Slide_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/e6f07b923e9428777222e1112feb9f480a327f6fc1daf788173959e1627a4e15_Cat_Slide_4.png",
+          "name": "Cat_Slide_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/416b78f42afb06aca38e7e50cfaed4cf094f2d2fac1b330c45d878cd587e2a05_Cat_Slide_5.png",
+          "name": "Cat_Slide_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/c94937494d9a6f6f1a072f0c3b949df23af3563337e70dfc0f17ed2e0c9425eb_Cat_Slide_6.png",
+          "name": "Cat_Slide_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/8969bb42e8adf2f71a7747ab9db7c9652cbe225c854e84de2955796ae5402b06_Cat_Slide_7.png",
+          "name": "Cat_Slide_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/6250f5c5cce003c59fbb7b21c3d7fdbd054adf57c27ec83de228572ffd35f882_Cat_Slide_8.png",
+          "name": "Cat_Slide_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Slide_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Slide_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/92448cd003e4d17c1956226c6639a9807c0b0d4f17d4af63de5be712e3f15796_Cat_Slide_9.png",
+          "name": "Cat_Slide_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/12732e8e1f8cd1bf840b3b694fc83061d9a6776aeeb4fdf7220d5b1fefd31a2f_Cat_Walk_1.png",
+          "name": "Cat_Walk_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3194645d445c82a5657ba6fcdd91c706eb105c2eb22fcc7f10cb132f3754d7a9_Cat_Walk_10.png",
+          "name": "Cat_Walk_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/09b876fee93602e13eee8a7817e6f4e030084b71f709a1495f626351fc9c488a_Cat_Walk_2.png",
+          "name": "Cat_Walk_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3c3c357334d18860f2045950a091e5a875a54b7305f9baa919ea6ea231f62ad3_Cat_Walk_3.png",
+          "name": "Cat_Walk_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/7ede6879fff9d653e85cb4cce2bc0226f903d3f152deef7e05a2d0e1f43180ba_Cat_Walk_4.png",
+          "name": "Cat_Walk_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/281bb292cd29ab63910d290bcbf570b1150ecb316d37ce8ee68e1ebdd35efe53_Cat_Walk_5.png",
+          "name": "Cat_Walk_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/93fc9d1a9d8480e4993ae6665d0468b343ab0651d4648591eb4677e9fda04a54_Cat_Walk_6.png",
+          "name": "Cat_Walk_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3592d5ebbb6d7df13a17c77c6c2f562714d1d2bdc99e125bfcf2ac875f84e619_Cat_Walk_7.png",
+          "name": "Cat_Walk_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/75ae7fc084b4081ee438ce855ca5070ac60d29d67cb1c87725f53f1a299d2b6c_Cat_Walk_8.png",
+          "name": "Cat_Walk_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Walk_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/b6c1e7a74eca0e7b3cc4d1680ab1321acfe3194e6cde10786e0fc70625f7496a_Cat_Walk_9.png",
+          "name": "Cat_Walk_9.png"
+        }
       }
     ],
     "resourceFolders": []
